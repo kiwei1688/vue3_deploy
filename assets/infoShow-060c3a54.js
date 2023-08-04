@@ -1,1 +1,0 @@
-import{o as e,B as n,H as o,s,b6 as c,a4 as a}from"./index-5599dcdb.js";const _={class:"content-wrap"},i={class:"content-inner"},r={class:"content-title"},d=o("span",null,"個人信息",-1);function l(p,h){const t=c;return e(),n("div",_,[o("div",i,[o("div",r,[s(t,{class:"icons"}),d])])])}const f={},u=a(f,[["render",l]]);export{u as default};
