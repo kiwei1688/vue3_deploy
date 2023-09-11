@@ -1,0 +1,1 @@
+import{o as t,B as n,H as e,s as o,b5 as c,a4 as a}from"./index-30561165.js";const _={class:"content-wrap"},i={class:"content-inner"},r={class:"content-title"},d=e("span",null,"金融服務",-1);function l(p,m){const s=c;return t(),n("div",_,[e("div",i,[e("div",r,[o(s,{class:"icons"}),d])])])}const f={},h=a(f,[["render",l]]);export{h as default};
