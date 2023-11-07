@@ -1,0 +1,1 @@
+import{a as o,c as s,h as e,E as c,l as a,a9 as r,$ as _}from"./index-f07c035b.js";const i={class:"content-wrap"},l={class:"content-inner"},d={class:"content-title"};function m(t,f){const n=r;return o(),s("div",i,[e("div",l,[e("div",d,[c(n,{class:"icons"}),e("span",null,a(t.$t("member.memInfo")),1)])])])}const p={},h=_(p,[["render",m]]);export{h as default};
