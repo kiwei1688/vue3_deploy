@@ -5289,7 +5289,7 @@ const Ol = { class: "content-wrap" },
             S();
         },
         E = async () => {
-          const i = "http://localhost:5173/api/getList";
+          const i = "http://localhost:5173/src/mock/api/getList";
           try {
             await ct.get(i).then((l) => {
               l.data
