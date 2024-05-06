@@ -1,0 +1,1 @@
+import{a,c as s,aa as o,an as t,ao as c,j as _,ab as d}from"./index-9b92ae7c.js";const n=e=>(t("data-v-aee48166"),e=e(),c(),e),p={class:"headMenu"},r=n(()=>_("div",{class:"content"},"這是帳戶資訊帳戶資訊帳戶資訊帳戶資訊帳戶資訊頁面",-1));function i(e,l){return a(),s("div",p,[o(">> 帳戶資訊"),r])}const u={},m=d(u,[["render",i],["__scopeId","data-v-aee48166"]]);export{m as default};

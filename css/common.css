@@ -108,7 +108,7 @@
   .content-wrap .content-inner {
     max-width: 1280px;
     width: 100%;
-    margin: 20px auto;
+    margin: 0 auto;
   }
 
   .content-wrap .content-inner .content-title {
@@ -117,12 +117,17 @@
     border-bottom: 1px solid #d4d4d4;
   }
 
+  .content-wrap .content-inner .content-title svg {
+    display: inline-block;
+    vertical-align: unset;
+  }
+
   .content-wrap .content-inner span {
     line-height: 35px;
   }
 
   .content-wrap .content-inner .icons {
-    width:20px;
+    /* width:20px; */
     height: 20px;
     padding-right: 8px;
     position: relative;
@@ -258,4 +263,9 @@
   .pagination_wrap {
     float: right;
     margin-top: 10px;
+  }
+
+  #nprogress .bar {
+    height:4px !important;
+    background: red !important;
   }
